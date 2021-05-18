@@ -1,0 +1,22 @@
+/**
+ * @name Cute
+ * @author MonsterDev
+ * @version 1.5
+ * @description Phoenix Theme Bundle: Transparent, fully customizable theme with multiple addons
+ * @invite TeRQEPb
+ * @authorId 402272736665272300
+ * @source https://github.com/monstrousdev/themes/theme-files/Reborn.theme.css
+*/
+
+@import url('https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css');
+
+:root {
+  --background-image: url('https://media.giphy.com/media/uqe7fb2xV4d68/giphy.gif');
+  --popup-background: url('https://wallpaperaccess.com/full/246645.jpg');
+  --background-blur: 0px;
+  --background-darkness: 0.02;
+  --main-color: #E59DCC;
+  --hover-color: #E72186;
+  --roundness: 20px;
+  --shadow: rgb(255,0,0,0.4);
+}
